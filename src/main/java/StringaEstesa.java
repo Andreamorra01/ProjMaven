@@ -11,6 +11,7 @@ public class StringaEstesa {
     public StringaEstesa() {
     }
 
+
     /**
      * costruttore con parametro
      * @param s
