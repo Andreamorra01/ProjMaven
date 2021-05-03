@@ -26,6 +26,7 @@ public class StringaEstesa {
     public boolean isEmpty() {
         return value == null || value.length() == 0 ;
 
+
     }
 
     /**
